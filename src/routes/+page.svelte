@@ -34,6 +34,8 @@
         <h2> What I will not rate</h2>
         <p>- NSFW / very suggestive OCs</p>
         <p>- OCs that aren't fully your work, this includes recolors</p>
+        <p>- Any ratings sent for the purpose of trolling</p>
+        <p>- Duplicate or spam ratings</p>
         <FileUpload />
     </div>
     <div slot='footer'>
