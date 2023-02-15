@@ -30,6 +30,10 @@
     </div>
     <div slot='main' >
         <p>Put your OC and wait for it to be rated! SVGs (vector), PNGs (bitmap), and other image formats can be uploaded.</p>
+        <p><b>I reserve the right to not rate an OC for breaking any of the guidelines below.</b></p>
+        <h2> What I will not rate</h2>
+        <p>- NSFW / very suggestive OCs</p>
+        <p>- OCs that aren't fully your work, this includes recolors</p>
         <FileUpload />
     </div>
     <div slot='footer'>
