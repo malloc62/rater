@@ -74,6 +74,11 @@
     <p>
         Progress: {progress * 100}%
     </p>
+    <p>
+        {#if form}
+            {form.success}
+        {/if}
+    </p>
     <p> 
         <Button class="upload-btn" clickFunc={ () => fileInput.click() }>Upload</Button>
     </p>
